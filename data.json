@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1",
+    "title": "Learning Singleton Pattern in JS  updated",
+    "description": "I would like to learn singleton in JS language, it's important for my work",
+    "link": "https://www.dofactory.com/javascript/design-patterns/singleton",
+    "priority": 3,
+    "timeToFinish": 120,
+    "createdAt": "2021-04-04T18:36:21.314Z",
+    "status": "complete",
+    "activationTime": "2021-04-10T05:33:31.539Z"
+  },
+  {
+    "id": "2",
+    "title": "Learning Arabic Language",
+    "description": "Read and write in Arabic, understand some basic phrases",
+    "link": "https://www.naturalarabic.com",
+    "priority": 1,
+    "timeToFinish": 30,
+    "createdAt": "2021-04-04T18:36:21.314Z",
+    "status": "complete",
+    "activationTime": "2021-04-10T06:28:37.114Z"
+  },
+  {
+    "id": "3",
+    "title": "Migrate Xraymedia to springboot",
+    "description": "Get rid of obsolete old jboss 4.2.3, at first stage replace Jboss with Springboot and Kafka,  tiles, jsp with Thymeleaf, struts with spring MVC",
+    "link": "https://spring.io/guides",
+    "priority": 5,
+    "timeToFinish": 240,
+    "createdAt": "2021-04-04T18:36:21.314Z",
+    "status": "inactive"
+  },
+  {
+    "title": "Complete Next.js with React & Node",
+    "description": "Following udemy course on Next.js",
+    "link": "https://www.udemy.com/course/awesome-nextjs-with-react-and-node-amazing-portfolio-app/",
+    "priority": "1",
+    "timeToFinish": 300,
+    "createdAt": "2021-04-04T18:36:21.314Z",
+    "status": "inactive",
+    "id": "1617561381314"
+  },
+  {
+    "title": "Complete MongoDB Administration Guide",
+    "description": "cLearing MongoDB administration on udemy course",
+    "link": "https://www.udemy.com/course/mongodb-essentials-m/",
+    "priority": 480,
+    "timeToFinish": "10",
+    "createdAt": "2021-04-04T18:57:49.622Z",
+    "status": "cinactive",
+    "id": "1617562669622"
+  },
+  {
+    "title": "The Complete Ruby on Rails Developer Course",
+    "description": "Refreshing Rails skills and finishing Ruby on Rails course",
+    "link": "https://www.udemy.com/course/mongodb-essentials-m/",
+    "priority": "1",
+    "timeToFinish": 480,
+    "createdAt": "2021-04-04T19:05:56.921Z",
+    "status": "inactive",
+    "id": "1617563156921"
+  },
+  {
+    "title": "Reactive Programming with Spring Framework 5",
+    "description": "Learn how to leverage the Reactive Programming Features of Spring Framework 5; Build microservices with Spring WebFlux; Leverage Reactive types in Spring Data MongoDB; Functional Programming with Java; Java 8 Streams",
+    "link": "https://www.udemy.com/course/reactive-programming-with-spring-framework-5/",
+    "priority": "1",
+    "timeToFinish": 560,
+    "createdAt": "2021-04-05T18:36:21.314Z",
+    "status": "inactive",
+    "id": "reactive-programming-with-spring-framework-5"
+  },
+  {
+    "title": "Apache Kafka for Developers using Spring Boot",
+    "description": "Apache Kafka and its Internals; Build Enterprise Standard Kafka Client Applications using Spring Boot; Writing Unit Tests using JUnit; Writing Integration tests using JUnit and Embedded Kafka; Build End to End application using Kafka Producer/Consumer and Spring Boot",
+    "link": "https://www.udemy.com/course/apache-kafka-for-developers-using-springboot/",
+    "priority": "1",
+    "timeToFinish": 540,
+    "createdAt": "2021-04-05T18:36:21.314Z",
+    "status": "inactive",
+    "id": "apache-kafka-for-developers-using-springboot"
+  },
+  {
+    "title": "Django Channels for Real-time Updates",
+    "description": "Channels adds asynchronous events to Django. This has the potential to make Django event-driven—to have things happen in the user’s browser in direct response to something changing. in this tutorial, Stuart modifies Django's tutorial polls app to make so that poll rerults are updated in real time.",
+    "link": "https://www.sitepoint.com/premium/books/django-channels-for-real-time-updates",
+    "priority": "2",
+    "timeToFinish": 60,
+    "createdAt": "2021-04-07T22:53:48.996Z",
+    "status": "inactive",
+    "id": "1617836028996"
+  },
+  {
+    "title": "freeCodeCamp",
+    "description": "Continue with tutorials and challenges on freeCodeCamp",
+    "link": "https://www.freecodecamp.org/learn/",
+    "priority": "2",
+    "timeToFinish": 1000,
+    "createdAt": "2021-04-08T04:12:15.219Z",
+    "status": "inactive",
+    "id": "1617855135219"
+  }
+]
