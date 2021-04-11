@@ -63,7 +63,7 @@
   },
   {
     "title": "Reactive Programming with Spring Framework 5",
-    "description": "Learn how to leverage the Reactive Programming Features of Spring Framework 5; Build microservices with Spring WebFlux; Leverage Reactive types in Spring Data MongoDB; Functional Programming with Java; Java 8 Streams",
+    "description": "Learn how to leverage the Reactive Programming Features of Spring Framework 5; \nBuild microservices with Spring WebFlux; \nLeverage Reactive types in Spring Data MongoDB; \nFunctional Programming with Java; \nJava 8 Streams",
     "link": "https://www.udemy.com/course/reactive-programming-with-spring-framework-5/",
     "priority": "1",
     "timeToFinish": 560,
